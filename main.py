@@ -16,7 +16,7 @@ from faster_whisper import WhisperModel
 # ─────────────────────────────────────────────────────────────
 #  Настройки — меняйте тут
 # ─────────────────────────────────────────────────────────────
-VIDEO_URL = "https://www.youtube.com/watch?v=TtqItIFoaLI&t=2s"   # ← ваша ссылка
+VIDEO_URL = "https://www.youtube.com/watch?v=A0_Abt4dzAA"   # ← ваша ссылка
 MODEL_SIZE   = "base"      # tiny / base / small / medium / large-v3 / turbo
 COMPUTE_TYPE = "int8"       # int8 (CPU) / float16 (GPU) / int8_float16
 DEVICE       = "cpu"        # cpu / cuda
